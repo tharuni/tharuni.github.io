@@ -137,7 +137,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffebebeb',end
 }
 .progress {
 height: 12px;
-background-color: ##E67E22;
+background-color: #ebeef1;
 background-image: none;
 box-shadow: none;
 }
@@ -149,7 +149,7 @@ font-size: 12px;
 line-height: 20px;
 color: #fff;
 text-align: center;
-background-color: #428bca;
+background-color: #E67E22;
 -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,0.15);
 box-shadow: inset 0 -1px 0 rgba(0,0,0,0.15);
 -webkit-transition: width .6s ease;
@@ -161,7 +161,7 @@ background-image: -webkit-linear-gradient(top,#428bca 0,#3071a9 100%);
 background-image: -moz-linear-gradient(top,#428bca 0,#3071a9 100%);
 background-image: linear-gradient(to bottom,#428bca 0,#3071a9 100%);
 background-repeat: repeat-x;
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E67E22',endColorstr='#E67E22',GradientType=10);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#E67E22',endColorstr='##E67E22',GradientType=10);
 }
 .progress-bar {
 box-shadow: none;
